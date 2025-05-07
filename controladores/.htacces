@@ -1,3 +1,0 @@
-Options All -Indexes
-RawriteEngine On
-RewriteRul ^([-a-zA-Z0-9]+)$ index.php?ruta=$1
